@@ -1,2 +1,2 @@
-FROM sagarp12/myweb-php:v2
+FROM sagarp12/myweb-php:v1
 COPY index.html /var/www/html/index.html
